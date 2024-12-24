@@ -5,13 +5,13 @@ h1 {
     text-align: center;
     width: 20%;
    border-radius: 10%;
-   color: bisque;
+   color: rgb(14, 210, 33);
    font-weight: 300;
    
 }
 h1:hover{
 
-    background-color:rgb(168, 31, 113) ;
+    background-color:rgb(249, 10, 153) ;
 }
 
 .p{
