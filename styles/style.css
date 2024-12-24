@@ -1,21 +1,27 @@
-h1 {
+span {
 
     background-color:blue ;
-    padding: 20px;
-    text-align: center;
-    width: 20%;
-   border-radius: 10%;
-   color: rgb(14, 210, 33);
-   font-weight: 300;
+    width: 200px;
+   height: 100px;
+   
    
 }
-h1:hover{
+h1{
 
     background-color:rgb(249, 10, 153) ;
+    width: 400px;
+   height: 400px;
 }
 
-.p{
+p{
+    
+    background-color:rgb(249, 10, 153) ;
+    width: 400px;
+   height: 400px;
     line-height: 20px;
     word-spacing: 40px;
 
+}
+.p2{
+    display: none;
 }
