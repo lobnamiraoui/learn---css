@@ -1,6 +1,21 @@
-.text {
+h1 {
 
-    border: 1px solid red;
+    background-color:blue ;
     padding: 20px;
-    margin: 20px;
+    text-align: center;
+    width: 20%;
+   border-radius: 10%;
+   color: bisque;
+   font-weight: 300;
+   
+}
+h1:hover{
+
+    background-color:rgb(168, 31, 113) ;
+}
+
+.p{
+    line-height: 20px;
+    word-spacing: 40px;
+
 }
